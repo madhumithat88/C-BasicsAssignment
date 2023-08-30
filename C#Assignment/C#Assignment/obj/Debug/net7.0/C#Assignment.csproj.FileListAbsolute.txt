@@ -1,0 +1,14 @@
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\bin\Debug\net7.0\C#Assignment.exe
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\bin\Debug\net7.0\C#Assignment.deps.json
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\bin\Debug\net7.0\C#Assignment.runtimeconfig.json
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\bin\Debug\net7.0\C#Assignment.dll
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\bin\Debug\net7.0\C#Assignment.pdb
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.AssemblyInfoInputs.cache
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.AssemblyInfo.cs
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.csproj.CoreCompileInputs.cache
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.dll
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\refint\C#Assignment.dll
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.pdb
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\C#Assignment.genruntimeconfig.cache
+C:\Users\tmadhumitha\source\repos\C#Assignment\C#Assignment\obj\Debug\net7.0\ref\C#Assignment.dll
